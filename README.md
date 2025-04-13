@@ -17,7 +17,7 @@ Respeta la vida marina
 ¡Pero ten cuidado! Atraplás no quiere molestar a los animales que viven en el mar. Si accidentalmente atrapa uno, se angustia y libera tinta. La esponja te ayudará a ver el fondo del mar de nuevo, pero debes recompensarla recogiendo las perlas que ves en la corriente.
 
 
-+
+
 ![](img/1.jpg)
 
 ![](img/2.jpg)
